@@ -26,17 +26,24 @@ $ conda create --name d3forJupyter --file requirements.txt
 ...
 ```
 
+Activate the environment:
+
+```sh
+$ conda activate d3forJupyter
+```
+
 Set up a kernel for Jupyter:
 
 ```sh
 $ python -m ipykernel install --user --name=d3forJupyter
-...
+Installed kernelspec d3forJupyter in <path>
 ```
 
 Start up Jupyter notebook:
 
 ```sh
 $ jupyter notebook
+[I 17:36:30.869 NotebookApp] Serving notebooks from local directory: <path>
 ...
 ```
 
