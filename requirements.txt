@@ -109,8 +109,6 @@ pycparser=2.21=pyhd3eb1b0_0
 pygments=2.11.2=pyhd3eb1b0_0
 pyparsing=3.0.4=pyhd3eb1b0_0
 pyqt=5.15.2=py38he8f2410_0
-pyqt5-sip=4.19.25=pypi_0
-pyqtchart=5.15.2=pypi_0
 pyrsistent=0.18.0=py38h1a28f6b_0
 python=3.8.16=hc0d8a6c_2
 python-dateutil=2.8.2=pyhd3eb1b0_0
